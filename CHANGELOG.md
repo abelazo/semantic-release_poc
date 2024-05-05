@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/abelazo/semantic-release_poc/compare/v1.2.0...v1.3.0) (2024-05-05)
+
+
+### Bug Fixes
+
+* **semantic-release:** yaml format ([ff9bd39](https://github.com/abelazo/semantic-release_poc/commit/ff9bd39fea17b33efedd3fc63bd60e86f740e574))
+* **semantic-release:** yaml indentation ([babd829](https://github.com/abelazo/semantic-release_poc/commit/babd82950ad4f45b83d790a8b65695bf8b18aaa4))
+
+
+### Features
+
+* **semantic-release:** Add npm plugin ([6b9c991](https://github.com/abelazo/semantic-release_poc/commit/6b9c9915b14d41bf1837227ddc3dd50cffed3626))
+
 # [1.2.0](https://github.com/abelazo/semantic-release_poc/compare/v1.1.0...v1.2.0) (2024-05-05)
 
 
