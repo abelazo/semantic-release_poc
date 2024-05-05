@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/abelazo/semantic-release_poc/compare/v1.3.0...v1.4.0) (2024-05-05)
+
+
+### Bug Fixes
+
+* **semantic-release:** Revert back package.json file as it is required to install required plugins ([4bdea48](https://github.com/abelazo/semantic-release_poc/commit/4bdea48fb399be902be5fc047ddf3381b7451ffd))
+
+
+### Features
+
+* **semantic-release:** Disable package.json commit ([24ed765](https://github.com/abelazo/semantic-release_poc/commit/24ed765d8c0b75f6711042fc7cee81f148f1f3cc))
+
 # [1.3.0](https://github.com/abelazo/semantic-release_poc/compare/v1.2.0...v1.3.0) (2024-05-05)
 
 
