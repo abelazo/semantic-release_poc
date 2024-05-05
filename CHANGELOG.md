@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/abelazo/semantic-release_poc/compare/v1.1.0...v1.2.0) (2024-05-05)
+
+
+### Features
+
+* **semantic-release:** Add project name and version ([960a4b8](https://github.com/abelazo/semantic-release_poc/commit/960a4b8e91126b51694a8a03bfb21b011cc8f117))
+
 # [1.1.0](https://github.com/abelazo/semantic-release_poc/compare/v1.0.0...v1.1.0) (2024-05-05)
 
 
