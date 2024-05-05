@@ -1,5 +1,5 @@
 name: semantic-release
-run-name: ${{ github.actor }} is learning Semantic Release
+run-name: Semantic Release
 on:
   push:
     branches:
